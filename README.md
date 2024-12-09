@@ -28,3 +28,6 @@ I created a custom dataset named Balanced_data.csv to improve the performance of
 - Utilizes the Balanced_data.csv (a 20MB file) for building a proper machine learning model.
 - Covers evaluation methods, optimized model development, and implementation of Streamlit code for deployment.
 
+## DATA SOURCE:
+Kaggle: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+
