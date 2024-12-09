@@ -31,3 +31,10 @@ I created a custom dataset named Balanced_data.csv to improve the performance of
 ## DATA SOURCE:
 Kaggle: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
 
+#### Further ML Projects using same Dataset:
+- Implement time series forecasting
+- Develop clustering algorithms for customer segmentation
+- Create deep learning models for pattern recognition
+- Build reinforcement learning systems for automated decision making
+
+
